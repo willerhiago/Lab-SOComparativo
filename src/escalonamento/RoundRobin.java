@@ -107,7 +107,7 @@ public class RoundRobin{
             	cliente.setTempoTodoLote(tempo);
             	media += cliente.getTempoTodoLote();
             	if(cliente != null)this.retiraNo(cliente);
-            	System.out.println(cliente.toString());
+            	//System.out.println(cliente.toString());
             	cliente = cliente.getProx();
             }
             if(aux == 35) {
@@ -116,7 +116,7 @@ public class RoundRobin{
             }
             
         }
-    	System.out.println("\nROUNDROBIN : Tempo Total: "+tempo+" Horas\nTempo Médio por Cliente: " + (media/quantCli)+" Horas");
+    	//System.out.println("\nROUNDROBIN : Tempo Total: "+tempo+" Horas\nTempo Médio por Cliente: " + (media/quantCli)+" Horas");
     	
     
     }

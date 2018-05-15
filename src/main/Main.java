@@ -61,7 +61,7 @@ public class Main {
 				System.out.println("Tempo: "+ media);
 				break;
 			case 3: 
-				for(int i = 0; i < 100; i ++) {
+				for(int i = 0; i < 3; i ++) {
 					inicio = System.currentTimeMillis();
 					sjf.calculaTempo(clientes,quantCli);
 					fim = System.currentTimeMillis();
