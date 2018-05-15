@@ -17,6 +17,11 @@ public class Main {
 		SJF sjf = new SJF();
 		RoundRobin rr = new RoundRobin();
 		
+		long inicio;
+		long fim;
+		long[] tempos = new long[100];
+		long media = 0;
+		
 		try {
 			arq.lerArquivo("lavanderia.txt");
 			ArrayList<Cliente> clientes = arq.retornarClientes();
@@ -35,16 +40,45 @@ public class Main {
 			switch(opcao) {
 			
 			case 1:
-				fila.calculaTempo(clientes,quantCli);
+				for(int i = 0; i < 100; i ++) {
+					inicio = System.currentTimeMillis();
+					fila.calculaTempo(clientes,quantCli);
+					fim = System.currentTimeMillis();
+					tempos[i] = (fim-inicio);
+				}
+				media = calculaMedia(tempos,100);
+				System.out.println("Tempo: "+ media);
 				break;
 			case 2:
-				fp.calculaTempo(clientes,quantCli);
+				
+				for(int i = 0; i < 100; i ++) {
+					inicio = System.currentTimeMillis();
+					fp.calculaTempo(clientes,quantCli);
+					fim = System.currentTimeMillis();
+					tempos[i] = (fim-inicio);
+				}
+				media = calculaMedia(tempos,100);
+				System.out.println("Tempo: "+ media);
 				break;
 			case 3: 
-				sjf.calculaTempo(clientes,quantCli);
+				for(int i = 0; i < 100; i ++) {
+					inicio = System.currentTimeMillis();
+					sjf.calculaTempo(clientes,quantCli);
+					fim = System.currentTimeMillis();
+					tempos[i] = (fim-inicio);
+				}
+				media = calculaMedia(tempos,100);
+				System.out.println("Tempo: "+ media);
 				break;
 			case 4:
-				rr.calculaTempo(clientes,quantCli);
+				for(int i = 0; i < 100; i ++) {
+					inicio = System.currentTimeMillis();
+					rr.calculaTempo(clientes,quantCli);
+					fim = System.currentTimeMillis();
+					tempos[i] = (fim-inicio);
+				}
+				media = calculaMedia(tempos,100);
+				System.out.println("Tempo: "+ media);
 				break;
 			}
 			
@@ -54,6 +88,16 @@ public class Main {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+	}
+	
+	public static long calculaMedia(long[] valores, int n) {
+		long soma = 0;
+		for(int i =0;i<n;i++) {
+			soma += valores[i];
+		}
+		long result = (soma/n);
+		return result;		
+		
 	}
 
 }

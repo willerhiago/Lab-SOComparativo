@@ -73,11 +73,11 @@ public class SJF{
     		}
     		cli.setTempoTodoLote(tempo);
     		 media += cli.getTempoTodoLote();
-    		System.out.println(cli.toString());
+    	//	System.out.println(cli.toString());
     	}
     	
     	
-    	System.out.println("\nSJF Tempo Total: "+tempo+" Horas\nTempo Médio por Cliente: " + (media/quantCli)+" Horas");
+    	//System.out.println("\nSJF Tempo Total: "+tempo+" Horas\nTempo Médio por Cliente: " + (media/quantCli)+" Horas");
     
     }
     

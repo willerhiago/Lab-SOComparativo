@@ -73,11 +73,11 @@ public class FilaPrioridade{
     		}
     		cli.setTempoTodoLote(tempo);
     		 media += cli.getTempoTodoLote();
-    		System.out.println(cli.toString());
+    		//System.out.println(cli.toString());
     	}
     	
     	
-    	System.out.println("\nFILA DE PRIORIDADE  Tempo Total: "+tempo+" Horas\nTempo Médio por Cliente: " + (media/quantCli)+" Horas");
+    	//System.out.println("\nFILA DE PRIORIDADE  Tempo Total: "+tempo+" Horas\nTempo Médio por Cliente: " + (media/quantCli)+" Horas");
     
     }
     
