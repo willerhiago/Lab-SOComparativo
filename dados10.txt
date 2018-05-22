@@ -1,0 +1,1024 @@
+Rafael N P Silva;38;R$ 17,40
+Dalila G L da Rocha;75;R$ 26,80
+Gabriel C Z de Araujo;34;R$ 20,50
+João X Y França;46;R$ 28,30
+Davi W P de Souza;23;R$ 18,80
+Brian A I Brandão;22;R$ 18,80
+Rafael O U Saldanha;56;R$ 16,80
+André G D França;77;R$ 26,90
+Rafael O M Saldanha;27;R$ 24,60
+Rafael D A de Araujo;47;R$ 16,70
+João U F de Araujo;38;R$ 15,80
+Willer T P França;42;R$ 20,30
+João E S de Araujo;29;R$ 27,00
+André P Y Saldanha;58;R$ 28,10
+Davi H H Vargas;37;R$ 23,70
+Rafael Z I Saldanha;80;R$ 16,00
+Daniel R F Brandão;45;R$ 21,40
+Daniel V P França;37;R$ 16,80
+Bruna Z R Macedo;49;R$ 18,80
+Gabriel S X da Rocha;41;R$ 18,40
+Willer G Q Macedo;63;R$ 26,50
+André N L Vieira;66;R$ 21,40
+Fernando K O Brandão;53;R$ 23,90
+Fernando J U de Araujo;41;R$ 27,60
+Willer Q E de Souza;17;R$ 21,10
+Bruna D E da Rocha;75;R$ 23,70
+Gabriel Q X Vargas;19;R$ 15,00
+Gabriel B I Silva;24;R$ 16,60
+Gabriel O E Brandão;30;R$ 21,00
+Dalila P Z Vieira;55;R$ 28,60
+Lucas C C de Souza;80;R$ 19,20
+Gabriel I H Badaró;28;R$ 28,50
+Willer J B Badaró;55;R$ 23,00
+Davi R L Macedo;26;R$ 21,30
+Bruna S A Silva;23;R$ 20,00
+João W J da Rocha;45;R$ 15,00
+Dalila V F Badaró;74;R$ 26,60
+Dalila C Q Badaró;68;R$ 21,60
+Brian K Y França;65;R$ 16,90
+André U H Saldanha;41;R$ 28,90
+André W R Silva;46;R$ 20,80
+Willer L L da Rocha;18;R$ 25,90
+Brian J Z Silva;27;R$ 28,00
+Lucas A I Saldanha;77;R$ 28,50
+Gabriel X T da Rocha;31;R$ 24,80
+Willer N I de Araujo;39;R$ 24,80
+Gabriel V M Silva;17;R$ 15,10
+Daniel M V de Araujo;47;R$ 25,70
+Brian R N Saldanha;45;R$ 28,20
+Bruna J Z Silva;31;R$ 23,40
+Willer T N Vargas;77;R$ 27,70
+Daniel P K Brandão;41;R$ 20,00
+Gabriel F O Badaró;51;R$ 15,30
+João N V Saldanha;26;R$ 23,70
+Brian B F Macedo;53;R$ 24,40
+Davi Y W Macedo;51;R$ 27,20
+André A U Vargas;29;R$ 28,70
+Davi T P Vargas;60;R$ 22,70
+Willer B O Brandão;32;R$ 24,30
+Lucas A J da Rocha;80;R$ 28,70
+André W J França;77;R$ 20,50
+Brian I C da Rocha;37;R$ 16,90
+Lucas Z S Saldanha;33;R$ 22,40
+Rafael D D Saldanha;23;R$ 21,60
+Daniel B O Vargas;54;R$ 18,60
+Bruna G C França;58;R$ 16,10
+Brian F X Vieira;35;R$ 25,40
+Fernando X A França;32;R$ 18,70
+Lucas F A França;75;R$ 27,00
+Fernando L V França;39;R$ 26,10
+Willer B H Macedo;80;R$ 28,70
+Rafael H S de Araujo;19;R$ 17,50
+Daniel U N Vieira;21;R$ 19,80
+Willer K J Vargas;37;R$ 19,90
+Brian L M Badaró;33;R$ 21,10
+Fernando O M Badaró;58;R$ 21,50
+André O Y Badaró;66;R$ 27,60
+Willer R X França;42;R$ 21,70
+Gabriel A F Vieira;26;R$ 22,40
+Rafael A U de Araujo;40;R$ 28,90
+João Z U Saldanha;30;R$ 23,30
+João V V Saldanha;38;R$ 15,20
+Bruna Y B Vargas;75;R$ 17,90
+Davi M E Vargas;58;R$ 22,40
+Lucas O G Macedo;38;R$ 24,30
+Brian E C Silva;49;R$ 19,30
+Dalila W P Saldanha;52;R$ 16,50
+Dalila P F Silva;74;R$ 18,40
+Gabriel F A Saldanha;48;R$ 15,30
+Willer D C França;23;R$ 24,70
+André C Y França;55;R$ 15,30
+Fernando U B França;51;R$ 27,10
+Bruna A R da Rocha;21;R$ 27,30
+João B Z Badaró;53;R$ 26,60
+Daniel Q Z Badaró;32;R$ 25,30
+João K Z França;45;R$ 21,60
+João B S Silva;62;R$ 23,30
+Gabriel D X Vargas;28;R$ 21,40
+Dalila U D Brandão;78;R$ 24,50
+Brian Z O Saldanha;80;R$ 17,00
+Dalila O O de Souza;18;R$ 28,70
+Lucas D C Saldanha;73;R$ 26,70
+Rafael Z F Macedo;45;R$ 21,70
+Fernando G P de Araujo;33;R$ 22,20
+Rafael X M de Araujo;41;R$ 23,40
+André R W Vargas;48;R$ 22,40
+Daniel I L Vargas;50;R$ 24,70
+Bruna C F França;32;R$ 17,90
+Willer M E de Araujo;61;R$ 24,10
+Brian R V Silva;65;R$ 24,70
+Bruna T W de Araujo;74;R$ 24,10
+Willer M E Vieira;60;R$ 16,40
+Willer P S Saldanha;40;R$ 21,00
+Brian J K França;61;R$ 17,20
+Gabriel S T Vargas;54;R$ 16,40
+André U D Silva;20;R$ 26,40
+Daniel C Q França;51;R$ 24,60
+Gabriel U P Vargas;38;R$ 26,30
+André F U França;70;R$ 23,00
+Willer Q Y Saldanha;39;R$ 24,90
+Fernando A Q Macedo;31;R$ 18,50
+João J Y Vieira;24;R$ 23,30
+Bruna Z H Silva;48;R$ 24,80
+Bruna X U Vieira;33;R$ 23,80
+Willer E S Saldanha;33;R$ 27,10
+Dalila F V França;45;R$ 27,10
+Brian E B Badaró;22;R$ 20,50
+Bruna D V Silva;26;R$ 20,10
+Willer C F de Souza;27;R$ 15,90
+Bruna R F França;33;R$ 23,10
+Brian S K da Rocha;39;R$ 16,00
+João Q G de Araujo;79;R$ 25,40
+Bruna E N Saldanha;63;R$ 27,50
+Rafael K Q Silva;48;R$ 28,00
+Dalila J S França;27;R$ 15,70
+Willer Q P de Araujo;21;R$ 18,30
+Bruna T X da Rocha;51;R$ 28,40
+João B R Macedo;56;R$ 16,80
+Fernando W N Saldanha;63;R$ 18,60
+Bruna V J de Araujo;69;R$ 21,50
+Davi P X Brandão;77;R$ 18,30
+João F B Saldanha;72;R$ 24,30
+Davi G H França;17;R$ 23,60
+Daniel J P Silva;76;R$ 20,80
+André B T da Rocha;64;R$ 28,10
+Fernando N A Silva;31;R$ 17,60
+Willer P A Badaró;22;R$ 27,70
+Daniel J M da Rocha;39;R$ 24,50
+Rafael X Z de Souza;48;R$ 19,70
+Davi P H Macedo;72;R$ 16,20
+Fernando W U Vargas;54;R$ 19,20
+Fernando X V de Souza;48;R$ 23,60
+Daniel R T Brandão;40;R$ 22,50
+Daniel R I de Souza;39;R$ 22,10
+Daniel Z M de Souza;56;R$ 25,10
+Gabriel G M França;76;R$ 16,80
+Bruna V V da Rocha;24;R$ 27,70
+Rafael K F Vargas;56;R$ 15,20
+Dalila S F Vieira;65;R$ 18,40
+Rafael Y J França;76;R$ 24,10
+Dalila V L Brandão;30;R$ 20,80
+Daniel X B de Souza;21;R$ 24,30
+Gabriel S N Silva;31;R$ 15,20
+Willer R S Saldanha;79;R$ 18,90
+Lucas Q H da Rocha;47;R$ 27,80
+Rafael I H Macedo;73;R$ 16,60
+Daniel M B França;36;R$ 28,00
+João T G Saldanha;26;R$ 17,80
+Brian R A Saldanha;55;R$ 24,70
+Gabriel S D Vargas;32;R$ 28,20
+Dalila O M de Araujo;51;R$ 26,30
+Gabriel M T da Rocha;71;R$ 16,60
+André H J Silva;36;R$ 28,40
+Davi S X Vieira;68;R$ 22,50
+Rafael W H Brandão;63;R$ 23,50
+Lucas M R Badaró;54;R$ 18,70
+Lucas X B de Araujo;28;R$ 18,50
+Bruna U K Badaró;51;R$ 20,20
+Fernando Z I Vieira;57;R$ 20,00
+Daniel O E Brandão;67;R$ 16,40
+João D U Saldanha;39;R$ 23,80
+Bruna A T Saldanha;64;R$ 26,10
+Brian I N Macedo;24;R$ 24,70
+João I G Vieira;47;R$ 17,80
+Gabriel U D Silva;18;R$ 19,40
+Rafael Q X Saldanha;54;R$ 19,90
+Lucas F U França;65;R$ 28,30
+Brian P T de Araujo;49;R$ 21,30
+Bruna M N Saldanha;25;R$ 19,70
+João A H Brandão;45;R$ 23,20
+Lucas F D Brandão;22;R$ 21,10
+Dalila N C Silva;57;R$ 22,00
+Bruna Q P Macedo;53;R$ 25,00
+André O G Macedo;60;R$ 26,60
+Gabriel V I de Souza;57;R$ 27,40
+Bruna F N Vargas;46;R$ 25,50
+André C V Macedo;38;R$ 17,50
+Rafael C I França;47;R$ 26,80
+Fernando O M Silva;19;R$ 16,50
+Gabriel H G França;28;R$ 15,20
+Davi G Z de Araujo;79;R$ 27,80
+Gabriel F G Brandão;43;R$ 26,90
+João R C Brandão;61;R$ 24,30
+Bruna P X Brandão;27;R$ 22,80
+Gabriel W A Vieira;75;R$ 22,50
+Willer I K Vieira;19;R$ 26,90
+Davi J J Badaró;76;R$ 23,40
+Daniel G L de Souza;38;R$ 21,80
+Bruna K V da Rocha;59;R$ 17,80
+João L S Vargas;78;R$ 26,20
+Lucas S F Saldanha;33;R$ 18,40
+Davi Y T Brandão;47;R$ 19,20
+Daniel F N Saldanha;28;R$ 17,20
+André E U da Rocha;50;R$ 26,10
+Dalila F G da Rocha;78;R$ 16,70
+Davi F K Badaró;43;R$ 19,90
+Daniel O N Saldanha;72;R$ 26,80
+Rafael N J Saldanha;61;R$ 20,30
+Brian Y F Badaró;37;R$ 15,10
+Lucas E E Vieira;39;R$ 17,20
+Rafael F C de Souza;39;R$ 27,40
+Brian W D Macedo;34;R$ 17,00
+Willer I S Saldanha;19;R$ 24,50
+Daniel J L da Rocha;17;R$ 20,00
+Rafael Y D Vargas;35;R$ 18,90
+Brian D D Saldanha;46;R$ 19,80
+Fernando Q O Macedo;70;R$ 16,30
+Gabriel A N Vargas;56;R$ 20,70
+Rafael E D Macedo;72;R$ 17,40
+Dalila L T Vargas;74;R$ 26,90
+Dalila W C Vargas;66;R$ 28,90
+Fernando S B França;67;R$ 22,00
+André B Q Badaró;79;R$ 18,50
+Bruna H U Vargas;36;R$ 22,10
+Dalila I J Badaró;20;R$ 23,30
+Bruna M V França;72;R$ 23,20
+Gabriel D P França;72;R$ 26,90
+João C W Saldanha;80;R$ 22,00
+Dalila R V Vieira;40;R$ 18,90
+Brian V M Badaró;42;R$ 26,00
+Willer Q W Macedo;18;R$ 21,40
+Dalila T G Vieira;72;R$ 25,40
+Dalila O V Badaró;18;R$ 20,40
+Dalila M G Saldanha;48;R$ 25,80
+Bruna V D Macedo;64;R$ 18,10
+Daniel F J de Araujo;49;R$ 18,90
+Dalila V J de Araujo;31;R$ 15,60
+André Q F de Souza;59;R$ 24,60
+Gabriel D S Vieira;52;R$ 28,10
+Lucas M S França;22;R$ 27,70
+Davi V K Silva;41;R$ 24,80
+Rafael W S de Souza;22;R$ 25,00
+Rafael J M Saldanha;44;R$ 24,70
+Gabriel Q S Macedo;59;R$ 16,80
+Gabriel E J França;50;R$ 16,10
+Brian T G Saldanha;19;R$ 20,60
+André G N Badaró;65;R$ 18,70
+Davi Z W Saldanha;54;R$ 20,10
+Gabriel O Y Brandão;47;R$ 15,50
+Daniel Y O França;45;R$ 19,30
+André Y W Saldanha;80;R$ 16,60
+Gabriel C B Saldanha;77;R$ 22,50
+Dalila J N Brandão;27;R$ 20,90
+Lucas F N Badaró;66;R$ 27,10
+Rafael D G Macedo;22;R$ 21,80
+Dalila H Z Brandão;17;R$ 22,00
+João J D Brandão;55;R$ 27,60
+Gabriel I O França;49;R$ 15,30
+Lucas Q V Badaró;64;R$ 24,80
+Willer A F da Rocha;64;R$ 24,40
+Dalila R S Vieira;59;R$ 18,30
+Fernando Z N França;47;R$ 16,00
+Daniel D L da Rocha;75;R$ 23,70
+Lucas W F Silva;47;R$ 21,40
+Fernando T J de Araujo;20;R$ 23,30
+Rafael H T de Souza;70;R$ 28,90
+Bruna G C da Rocha;22;R$ 24,20
+Rafael P C da Rocha;20;R$ 17,20
+Gabriel F F da Rocha;19;R$ 23,10
+Brian J J Badaró;26;R$ 26,50
+Brian N Q Vieira;72;R$ 16,70
+Gabriel H T França;35;R$ 19,70
+Gabriel J O Brandão;29;R$ 20,90
+Bruna H F Badaró;36;R$ 20,40
+Dalila V L França;35;R$ 17,10
+Dalila Q R Saldanha;70;R$ 27,40
+Daniel C P Badaró;36;R$ 19,90
+Dalila Q Z Saldanha;37;R$ 24,30
+Fernando F T da Rocha;18;R$ 26,10
+Gabriel K A Macedo;30;R$ 15,80
+Davi A C Vieira;77;R$ 15,90
+Davi V H da Rocha;32;R$ 16,10
+Lucas R U de Araujo;28;R$ 21,40
+Fernando K B Vieira;63;R$ 26,60
+Rafael D N Saldanha;56;R$ 28,60
+Rafael S I de Araujo;39;R$ 27,90
+João C M de Araujo;19;R$ 24,10
+Willer X E Badaró;30;R$ 24,50
+Bruna G Y Silva;38;R$ 19,80
+Dalila V N Saldanha;79;R$ 26,50
+Lucas X D da Rocha;30;R$ 19,60
+Dalila A A de Souza;32;R$ 20,40
+Dalila N I Badaró;27;R$ 18,10
+Fernando Q I Brandão;43;R$ 27,40
+Lucas Q N de Araujo;20;R$ 21,60
+Lucas J C Macedo;80;R$ 23,40
+Fernando F K Saldanha;75;R$ 18,60
+Davi B B Saldanha;77;R$ 26,90
+Gabriel B O da Rocha;46;R$ 21,70
+Gabriel Y J Vieira;27;R$ 16,20
+Bruna G V Vargas;29;R$ 27,20
+Davi H H Brandão;53;R$ 19,80
+Davi L C Badaró;75;R$ 25,70
+Fernando Z L Brandão;28;R$ 28,10
+André G U da Rocha;71;R$ 17,90
+Bruna I C Vargas;66;R$ 16,20
+André I Y Badaró;34;R$ 19,70
+Bruna E W Macedo;25;R$ 20,90
+Dalila A O de Araujo;30;R$ 28,30
+Brian Z Q de Souza;38;R$ 21,90
+Davi B S Macedo;42;R$ 17,40
+Dalila M N Brandão;22;R$ 21,60
+Dalila B W da Rocha;33;R$ 17,10
+Davi H U Badaró;24;R$ 18,80
+André U X Vieira;56;R$ 28,70
+Lucas Z J Brandão;49;R$ 26,30
+Lucas J Z França;69;R$ 25,30
+Brian R M de Araujo;54;R$ 16,20
+João U L Macedo;34;R$ 19,60
+André L K Silva;56;R$ 15,20
+Willer V Q Vargas;63;R$ 18,70
+Daniel Z O de Souza;27;R$ 28,80
+Rafael C H Vieira;25;R$ 18,40
+Rafael V C da Rocha;64;R$ 24,10
+Davi E B da Rocha;73;R$ 28,30
+Gabriel Q A Badaró;23;R$ 20,90
+João I I Saldanha;78;R$ 26,60
+Davi Z H Silva;57;R$ 18,40
+Rafael S G Vargas;63;R$ 27,50
+Willer R L Vieira;23;R$ 20,30
+Willer N R Saldanha;75;R$ 20,00
+Gabriel Y M Macedo;55;R$ 27,60
+Willer S N Saldanha;30;R$ 15,70
+Rafael W Y de Araujo;60;R$ 28,70
+Gabriel X J Macedo;39;R$ 22,90
+Dalila X R Saldanha;34;R$ 16,30
+Daniel E Z Vargas;66;R$ 28,60
+Willer X M Saldanha;26;R$ 27,40
+Lucas I C de Araujo;52;R$ 22,30
+João M C de Araujo;39;R$ 23,50
+Bruna T B da Rocha;26;R$ 16,50
+Fernando O C Brandão;51;R$ 26,80
+Davi C I Badaró;26;R$ 18,80
+Daniel S E Vargas;41;R$ 15,50
+Dalila J T Silva;19;R$ 17,50
+Bruna N L da Rocha;32;R$ 26,40
+Lucas R V Brandão;54;R$ 17,10
+Rafael U V Saldanha;53;R$ 28,90
+Lucas A Y de Souza;18;R$ 27,20
+Bruna Y S Macedo;48;R$ 25,30
+Rafael L R Badaró;20;R$ 26,70
+André I Z Saldanha;17;R$ 27,10
+Fernando E Q França;78;R$ 22,70
+Daniel H S de Araujo;19;R$ 27,80
+João S D Vargas;57;R$ 18,00
+Willer P H Badaró;59;R$ 25,20
+Dalila D G Badaró;33;R$ 16,50
+Fernando V E Vargas;67;R$ 20,30
+Dalila A J França;72;R$ 23,60
+Bruna R X Saldanha;22;R$ 22,30
+Willer G X Vargas;21;R$ 23,10
+Brian N U de Araujo;35;R$ 26,70
+Lucas Q D de Souza;21;R$ 27,50
+Daniel U G de Souza;61;R$ 28,30
+Fernando A B Vargas;56;R$ 22,60
+Bruna S L Vargas;42;R$ 24,70
+Bruna P Y da Rocha;30;R$ 20,20
+Willer B U de Souza;33;R$ 20,20
+Davi N S Vargas;77;R$ 19,20
+Gabriel Q V Saldanha;51;R$ 17,80
+Willer O Q Brandão;40;R$ 20,40
+André B P de Souza;69;R$ 16,60
+Lucas R D de Souza;33;R$ 18,70
+Daniel U A Brandão;73;R$ 20,20
+Brian R Q Saldanha;71;R$ 23,80
+Brian K H Vieira;50;R$ 18,80
+Dalila I P Saldanha;55;R$ 21,30
+Dalila Q S de Souza;64;R$ 18,80
+Davi M J Brandão;59;R$ 17,50
+Rafael B U França;33;R$ 26,70
+Fernando P I Saldanha;65;R$ 20,10
+Daniel Z U Vieira;57;R$ 25,20
+Bruna Q C Vieira;22;R$ 26,20
+Bruna C A Saldanha;41;R$ 28,90
+Fernando M A de Araujo;48;R$ 25,30
+João X F Saldanha;67;R$ 18,10
+Lucas T U França;47;R$ 20,80
+André S A da Rocha;71;R$ 18,10
+Dalila Y V Saldanha;69;R$ 24,10
+Bruna G K da Rocha;22;R$ 27,00
+Bruna I S Brandão;34;R$ 25,20
+André S R Brandão;19;R$ 26,00
+Bruna I S Saldanha;33;R$ 21,50
+Bruna B X França;49;R$ 21,30
+Willer M B da Rocha;35;R$ 17,50
+Dalila M O Vieira;72;R$ 22,60
+Rafael W F Macedo;61;R$ 17,10
+João K X de Araujo;70;R$ 26,00
+Davi T I Macedo;65;R$ 21,00
+André D F Silva;18;R$ 18,90
+João Q I de Souza;39;R$ 17,40
+Fernando R F da Rocha;64;R$ 24,50
+Daniel B X Silva;40;R$ 24,80
+Rafael S I França;43;R$ 25,00
+Dalila W R Saldanha;21;R$ 21,10
+Rafael H H Saldanha;63;R$ 19,80
+Dalila D I Brandão;45;R$ 28,70
+Dalila B H Vargas;40;R$ 19,40
+Rafael B C Macedo;31;R$ 27,90
+Lucas H Z Badaró;22;R$ 19,00
+Gabriel N M Vargas;61;R$ 25,30
+Fernando A G de Souza;17;R$ 16,10
+Daniel G N da Rocha;44;R$ 19,90
+Willer J J Macedo;20;R$ 16,80
+Lucas N O de Souza;37;R$ 28,90
+Fernando D M de Araujo;76;R$ 21,00
+Gabriel B V de Souza;31;R$ 25,60
+Dalila J I Vieira;70;R$ 19,60
+Fernando P N Silva;40;R$ 17,10
+Dalila F S Vieira;80;R$ 24,40
+Davi A V Badaró;65;R$ 24,60
+Willer I X de Souza;41;R$ 27,00
+Fernando T X Macedo;79;R$ 27,30
+Willer F J Badaró;37;R$ 18,10
+Dalila B U Badaró;62;R$ 19,90
+Lucas R O Silva;46;R$ 24,10
+Dalila F D Badaró;57;R$ 17,20
+Rafael O A de Araujo;80;R$ 27,00
+Rafael L K Brandão;52;R$ 24,00
+Fernando C L de Araujo;67;R$ 28,60
+Dalila Y M Vargas;66;R$ 23,50
+João M V Brandão;79;R$ 23,40
+Gabriel Y R Saldanha;19;R$ 27,20
+Fernando G C Brandão;64;R$ 17,80
+Brian V S Macedo;50;R$ 22,40
+Davi L N de Araujo;58;R$ 16,10
+Davi V T França;72;R$ 25,50
+Daniel U L Macedo;30;R$ 27,40
+João Q B França;56;R$ 23,40
+Bruna L O Brandão;23;R$ 18,10
+André Z P de Araujo;61;R$ 16,80
+Rafael W U França;56;R$ 19,80
+Rafael E E Macedo;67;R$ 28,60
+Dalila H R França;50;R$ 21,70
+Davi O B Macedo;47;R$ 21,00
+André T M França;19;R$ 25,80
+André H K da Rocha;43;R$ 22,00
+Bruna V M Badaró;63;R$ 28,00
+Rafael Y M de Araujo;45;R$ 20,50
+Fernando L G Silva;31;R$ 28,40
+Willer E Q Saldanha;70;R$ 17,80
+Brian F V da Rocha;29;R$ 18,20
+Willer S J de Araujo;73;R$ 26,40
+Gabriel L E de Souza;26;R$ 26,00
+Dalila R Q de Souza;32;R$ 25,60
+Gabriel F M de Souza;30;R$ 25,60
+João V H França;76;R$ 20,70
+Dalila H X Vargas;75;R$ 17,40
+Dalila X M França;80;R$ 22,40
+Brian H Q Silva;73;R$ 23,90
+Brian R A de Araujo;36;R$ 27,20
+Davi P J de Souza;52;R$ 20,10
+Gabriel V X Vargas;41;R$ 23,20
+Lucas C E de Araujo;36;R$ 20,30
+Lucas F F Vargas;49;R$ 15,30
+Fernando B Y de Araujo;44;R$ 16,20
+Brian Q Z Vieira;39;R$ 28,60
+Willer F O Vieira;43;R$ 16,00
+Fernando A B Saldanha;67;R$ 22,70
+Davi X J Saldanha;45;R$ 25,20
+Brian N N da Rocha;32;R$ 17,70
+Willer M C Badaró;76;R$ 28,10
+Willer H X Badaró;28;R$ 19,30
+Gabriel S V de Souza;35;R$ 16,70
+Willer Z M de Souza;59;R$ 23,50
+Lucas O M de Araujo;63;R$ 22,10
+Willer O Z Saldanha;55;R$ 23,70
+Dalila G V Vargas;56;R$ 15,60
+Davi S B França;68;R$ 25,50
+Daniel L X de Souza;37;R$ 28,70
+Dalila A U de Araujo;66;R$ 15,40
+Rafael I T Silva;65;R$ 17,30
+Gabriel W O da Rocha;65;R$ 22,60
+Lucas U L Saldanha;27;R$ 24,80
+Lucas H X Brandão;18;R$ 22,60
+João S K da Rocha;32;R$ 20,90
+João O O Saldanha;59;R$ 23,00
+Gabriel G T Macedo;53;R$ 22,80
+Rafael N T de Souza;72;R$ 17,80
+Gabriel D D Macedo;23;R$ 16,40
+Davi W D Macedo;34;R$ 15,00
+Davi B X Vieira;45;R$ 26,60
+Dalila N T França;77;R$ 27,20
+Brian P W da Rocha;35;R$ 21,10
+Bruna W G Macedo;21;R$ 19,40
+Willer R Z de Araujo;28;R$ 26,00
+Davi M K Vargas;60;R$ 27,90
+Gabriel A Q França;69;R$ 17,60
+Willer O H Macedo;18;R$ 19,00
+Daniel Y R Saldanha;38;R$ 28,60
+Rafael H H Saldanha;80;R$ 27,50
+Gabriel U J Saldanha;35;R$ 16,40
+Fernando E N Brandão;80;R$ 20,60
+André J F Vieira;61;R$ 19,20
+Gabriel U B Saldanha;80;R$ 25,30
+André D V Silva;72;R$ 23,30
+Daniel H M Vargas;33;R$ 19,70
+Rafael H N de Araujo;42;R$ 28,00
+Gabriel V R Saldanha;59;R$ 23,10
+Brian A E Saldanha;35;R$ 20,90
+Bruna X J Brandão;48;R$ 22,00
+Fernando Z T Saldanha;51;R$ 26,20
+Daniel X Y de Souza;22;R$ 23,10
+Fernando J W Vargas;54;R$ 16,90
+João Z C de Souza;53;R$ 25,40
+Gabriel K L Vargas;34;R$ 20,00
+Gabriel A Y Badaró;39;R$ 21,10
+Davi X J Silva;26;R$ 27,10
+João I O Saldanha;69;R$ 25,00
+Rafael V Y Saldanha;54;R$ 27,20
+Brian U C de Araujo;23;R$ 16,90
+Lucas A N Macedo;67;R$ 22,50
+Dalila G A Saldanha;55;R$ 26,70
+Davi R T França;75;R$ 28,30
+Davi S Y França;48;R$ 28,00
+Dalila H Y Vargas;63;R$ 16,50
+Willer F P França;46;R$ 23,70
+Gabriel W C Vieira;22;R$ 23,80
+Bruna P G Badaró;47;R$ 15,80
+Daniel I S Brandão;50;R$ 18,20
+Gabriel Q Y Vargas;77;R$ 23,50
+Lucas L A da Rocha;27;R$ 23,70
+Brian P A Saldanha;44;R$ 28,80
+Willer C C Vargas;72;R$ 18,60
+Brian Q P de Souza;53;R$ 25,30
+André F D França;67;R$ 24,40
+Daniel T F de Souza;80;R$ 16,00
+João S G Saldanha;23;R$ 17,50
+Dalila F Z Brandão;65;R$ 18,00
+Dalila S K Macedo;53;R$ 17,00
+Davi G R de Souza;71;R$ 27,40
+Davi N N Vargas;68;R$ 17,70
+Davi W K Badaró;39;R$ 27,60
+Davi P Q Macedo;75;R$ 15,00
+André K A França;24;R$ 22,30
+Daniel X V Saldanha;51;R$ 26,70
+Davi V G de Araujo;44;R$ 23,80
+Davi G N Vieira;26;R$ 22,40
+Willer E X França;63;R$ 21,30
+João O M de Souza;36;R$ 19,10
+Davi D I da Rocha;35;R$ 26,50
+Rafael A F de Araujo;52;R$ 25,30
+Lucas F P Silva;28;R$ 26,00
+André I U Silva;68;R$ 27,30
+Lucas C T Silva;28;R$ 16,60
+João V U Badaró;40;R$ 17,10
+Daniel V A da Rocha;44;R$ 18,00
+Brian R V Silva;60;R$ 17,90
+Dalila A J Brandão;42;R$ 23,80
+Lucas R T França;37;R$ 22,70
+Bruna N J Vieira;33;R$ 16,40
+Davi R K Brandão;48;R$ 21,50
+Fernando D N Vargas;25;R$ 19,60
+Lucas Q T de Souza;60;R$ 28,40
+Dalila F L Brandão;61;R$ 24,70
+Fernando Z Y da Rocha;61;R$ 27,00
+Dalila O I Saldanha;75;R$ 18,60
+Lucas A M França;24;R$ 23,60
+Daniel J Y de Souza;43;R$ 15,90
+Rafael H T Saldanha;62;R$ 26,30
+João A C Badaró;57;R$ 18,30
+Dalila A X da Rocha;47;R$ 25,00
+Gabriel U T de Souza;27;R$ 24,00
+Brian R F Badaró;62;R$ 20,90
+Bruna F S de Souza;21;R$ 21,30
+Davi B D de Araujo;70;R$ 20,60
+Willer H U Saldanha;59;R$ 15,70
+Fernando H B Brandão;18;R$ 17,40
+Rafael A Z de Souza;40;R$ 26,60
+Dalila I M da Rocha;53;R$ 25,50
+Bruna P D Badaró;29;R$ 17,00
+Lucas B X Macedo;51;R$ 15,90
+Davi E L Silva;19;R$ 22,10
+Bruna F E Silva;45;R$ 16,10
+Davi D E Silva;53;R$ 25,60
+Bruna K L Saldanha;17;R$ 20,40
+João L F Saldanha;34;R$ 17,20
+Brian I K da Rocha;61;R$ 22,80
+Daniel X Q Silva;74;R$ 18,00
+Bruna W I Badaró;36;R$ 18,00
+Fernando X F Vieira;20;R$ 24,60
+Dalila J T Vargas;17;R$ 17,40
+Daniel U D França;57;R$ 20,80
+Lucas A B de Souza;19;R$ 16,10
+Willer T R Saldanha;63;R$ 15,10
+Gabriel F Z Saldanha;67;R$ 15,30
+João P H França;64;R$ 26,30
+Davi F M Saldanha;23;R$ 21,90
+André P Y França;64;R$ 16,40
+João U V de Araujo;66;R$ 28,90
+Rafael L G de Araujo;64;R$ 15,20
+Gabriel Z X Vargas;62;R$ 15,30
+Davi A Q Macedo;21;R$ 18,90
+Lucas J Y de Araujo;25;R$ 24,80
+Davi D O Saldanha;40;R$ 17,70
+Rafael H Q Brandão;67;R$ 17,10
+Davi Q Y Vieira;44;R$ 22,00
+Lucas P T França;60;R$ 26,00
+Fernando H M da Rocha;22;R$ 15,60
+André P O Vargas;67;R$ 15,70
+Rafael B W Saldanha;48;R$ 22,10
+Brian N K da Rocha;51;R$ 25,10
+Brian H I da Rocha;33;R$ 20,90
+Dalila S G de Souza;33;R$ 25,30
+Bruna S O Saldanha;71;R$ 16,80
+Lucas L E Saldanha;78;R$ 19,10
+Bruna N G Saldanha;28;R$ 17,10
+Brian H L Vargas;19;R$ 15,20
+Bruna F I Silva;41;R$ 28,70
+João B R Macedo;19;R$ 18,60
+Brian P D de Araujo;39;R$ 28,70
+Bruna I V Badaró;75;R$ 20,50
+Gabriel K V da Rocha;60;R$ 15,90
+Lucas C S de Souza;29;R$ 23,70
+João T B de Souza;41;R$ 28,70
+Daniel K V Macedo;55;R$ 16,00
+Bruna S R Brandão;29;R$ 23,20
+João D K Saldanha;20;R$ 16,50
+Willer I F Macedo;49;R$ 17,80
+Lucas A Z Badaró;58;R$ 27,30
+Brian S E Brandão;60;R$ 26,40
+Willer M I de Souza;21;R$ 22,10
+Bruna B O Saldanha;31;R$ 22,80
+Willer J M Macedo;53;R$ 18,00
+Daniel E O Macedo;76;R$ 21,00
+André I L Saldanha;29;R$ 18,20
+Brian T R Saldanha;52;R$ 20,10
+Fernando I O Brandão;66;R$ 25,50
+Daniel X Y Vargas;56;R$ 28,60
+Davi U X Vargas;57;R$ 15,10
+Gabriel G C França;47;R$ 21,00
+Fernando J E França;31;R$ 20,00
+Fernando V C Vargas;22;R$ 22,00
+Daniel N J Brandão;68;R$ 28,50
+Rafael Y S da Rocha;53;R$ 26,40
+Dalila W U de Souza;42;R$ 16,00
+Gabriel I X de Araujo;20;R$ 19,40
+Brian K T da Rocha;53;R$ 19,60
+Bruna B D de Souza;35;R$ 20,80
+Gabriel N A Saldanha;29;R$ 25,30
+Dalila H W Vargas;38;R$ 27,90
+Dalila M S de Araujo;61;R$ 19,60
+Rafael O X Vieira;41;R$ 18,20
+Lucas A G Badaró;56;R$ 21,20
+Davi P E França;44;R$ 23,40
+Brian D F Macedo;75;R$ 20,60
+Willer V L França;74;R$ 17,90
+Lucas K H de Souza;27;R$ 26,20
+Fernando Y K Vargas;48;R$ 18,30
+Gabriel R P Brandão;27;R$ 25,70
+Rafael H N Badaró;58;R$ 27,20
+Rafael S C de Araujo;23;R$ 27,20
+Davi E K de Araujo;26;R$ 21,30
+Willer F J de Araujo;37;R$ 21,20
+Bruna N E França;30;R$ 17,30
+Gabriel Z G Saldanha;43;R$ 19,40
+Fernando S A de Araujo;79;R$ 20,20
+Willer O S Vieira;22;R$ 25,20
+Dalila U M de Souza;69;R$ 24,20
+Gabriel M Z Vieira;27;R$ 19,60
+Lucas L S Vargas;77;R$ 16,20
+Brian I A de Araujo;46;R$ 24,40
+João X Z Saldanha;20;R$ 21,20
+Dalila G Y de Souza;43;R$ 18,30
+Rafael C K Badaró;42;R$ 24,30
+Lucas A P da Rocha;53;R$ 27,70
+Daniel J U Brandão;32;R$ 24,70
+Daniel Y S Vargas;33;R$ 17,70
+Dalila W W Saldanha;48;R$ 19,50
+Brian X F Vargas;20;R$ 25,10
+Daniel S X Silva;76;R$ 18,20
+Willer W R de Araujo;46;R$ 18,20
+João F E Vargas;40;R$ 27,60
+Daniel P A Macedo;80;R$ 28,40
+Brian H C Macedo;38;R$ 26,40
+André B Q Macedo;72;R$ 26,70
+André C U França;59;R$ 21,50
+André T R Badaró;62;R$ 28,20
+Daniel K H Vieira;49;R$ 15,70
+Daniel Q X de Araujo;57;R$ 16,90
+Gabriel D P Brandão;44;R$ 18,20
+Bruna K G Saldanha;49;R$ 18,80
+André C M Vieira;72;R$ 22,00
+Daniel I Z Saldanha;36;R$ 19,40
+Bruna L T França;49;R$ 20,90
+João S O Vieira;63;R$ 17,80
+Fernando N B Vargas;54;R$ 15,00
+André U A de Souza;32;R$ 17,40
+Bruna Z L Vieira;75;R$ 20,30
+Davi O D Badaró;53;R$ 20,30
+Fernando L G Vieira;53;R$ 28,20
+Dalila V M França;79;R$ 16,30
+Davi U E Saldanha;54;R$ 24,80
+Brian M U Macedo;25;R$ 27,30
+André D J da Rocha;40;R$ 27,70
+Dalila Y W Macedo;32;R$ 27,20
+Brian A C Silva;22;R$ 26,20
+João R E Vieira;80;R$ 26,50
+Dalila T C Badaró;17;R$ 22,40
+Gabriel E F Brandão;74;R$ 24,30
+Willer X R Saldanha;60;R$ 27,30
+Daniel M K Brandão;38;R$ 17,00
+Brian M J Silva;24;R$ 16,20
+Brian Z X França;54;R$ 27,10
+Daniel J V de Araujo;64;R$ 22,10
+Daniel M L França;66;R$ 21,10
+André L O de Souza;24;R$ 24,20
+Daniel S X Brandão;45;R$ 23,30
+Dalila R E Saldanha;49;R$ 19,80
+Davi L W Vieira;53;R$ 24,30
+Gabriel N E Vieira;61;R$ 18,70
+Daniel A G Vargas;49;R$ 27,50
+João H B Vieira;42;R$ 26,90
+Brian C I Brandão;52;R$ 17,70
+André N E Macedo;62;R$ 22,40
+Willer Y Q de Souza;77;R$ 22,50
+Dalila L X de Araujo;61;R$ 23,10
+Daniel G T Silva;22;R$ 26,00
+Lucas K A Macedo;26;R$ 17,50
+Daniel N V Vargas;62;R$ 18,20
+Bruna B I Vieira;24;R$ 16,10
+Lucas E K Badaró;55;R$ 28,10
+Gabriel E H de Araujo;52;R$ 23,60
+Fernando B Y Silva;29;R$ 24,90
+João A L de Araujo;62;R$ 18,20
+Gabriel Z L Macedo;63;R$ 18,00
+Rafael B V Saldanha;64;R$ 27,20
+Willer I L de Souza;61;R$ 18,40
+Bruna O U Vargas;35;R$ 18,50
+Lucas A V Vieira;40;R$ 27,90
+André P L de Araujo;44;R$ 26,70
+Daniel C W Vieira;25;R$ 15,80
+André W T Saldanha;31;R$ 19,70
+Dalila F W França;17;R$ 19,50
+Bruna A T Vargas;23;R$ 22,90
+André U J Silva;65;R$ 26,50
+Bruna G V Macedo;24;R$ 17,70
+Bruna P I Macedo;27;R$ 17,70
+Davi Q K de Souza;34;R$ 22,40
+Rafael P I Macedo;50;R$ 22,40
+Lucas E W Silva;19;R$ 26,10
+Willer C V Vieira;45;R$ 28,40
+João N H da Rocha;63;R$ 24,70
+André E C Brandão;18;R$ 18,90
+Gabriel T W Badaró;33;R$ 20,30
+Dalila C K de Araujo;37;R$ 27,20
+Bruna R Y Brandão;53;R$ 28,20
+Fernando Z I Vieira;71;R$ 24,30
+Bruna B Q Saldanha;23;R$ 18,60
+Gabriel Y F Silva;59;R$ 18,80
+Lucas L V Brandão;61;R$ 26,20
+Lucas M H Saldanha;45;R$ 28,70
+Lucas G N Vargas;54;R$ 27,60
+Willer B Q de Souza;29;R$ 21,30
+Gabriel V I da Rocha;50;R$ 15,70
+Gabriel O C Vieira;66;R$ 15,00
+Dalila L Q Badaró;39;R$ 17,70
+Lucas Q U de Souza;55;R$ 28,90
+João U E da Rocha;49;R$ 18,20
+Dalila Y S França;61;R$ 26,60
+Davi C V Vargas;32;R$ 17,80
+Fernando I W de Souza;19;R$ 17,30
+João W A Vieira;72;R$ 22,40
+André J W Macedo;46;R$ 21,30
+Brian Q D Vargas;61;R$ 17,10
+Rafael V Q Silva;33;R$ 28,40
+Brian G W Macedo;73;R$ 23,60
+Fernando W C França;30;R$ 26,40
+Davi T F Macedo;44;R$ 17,20
+Gabriel H M Vieira;23;R$ 16,00
+Brian F A de Souza;66;R$ 16,90
+André W C Vargas;50;R$ 20,50
+Davi H F Silva;72;R$ 23,80
+João S Q Silva;60;R$ 19,30
+Fernando N M Vieira;66;R$ 18,00
+Dalila H R Saldanha;55;R$ 20,30
+Dalila Q O Saldanha;24;R$ 25,10
+Dalila Y L de Souza;32;R$ 26,50
+Davi E K Badaró;26;R$ 28,50
+Daniel I P Silva;19;R$ 19,10
+Brian M Q Saldanha;20;R$ 22,00
+Gabriel H C Brandão;79;R$ 27,00
+Daniel J F Saldanha;69;R$ 28,70
+Rafael V J Badaró;17;R$ 22,50
+João K X Macedo;62;R$ 27,90
+Davi Q Q Macedo;29;R$ 18,80
+Davi Z T Saldanha;17;R$ 18,30
+Fernando M I França;68;R$ 17,20
+Brian U G de Souza;27;R$ 22,30
+Lucas S U Vargas;36;R$ 25,00
+André Z D França;60;R$ 15,40
+Fernando Q P Vieira;80;R$ 25,50
+Lucas C E Macedo;44;R$ 17,40
+Lucas C K de Araujo;41;R$ 19,30
+Willer D I Silva;62;R$ 15,60
+André F O Vargas;50;R$ 19,30
+João A B França;61;R$ 20,60
+Bruna E I Silva;27;R$ 21,00
+Rafael Y D Vargas;67;R$ 25,10
+Rafael D I França;66;R$ 22,00
+André V L da Rocha;59;R$ 26,20
+Daniel A K Macedo;64;R$ 16,00
+Willer A O Badaró;32;R$ 23,30
+Rafael Z Z Saldanha;26;R$ 19,60
+André A K de Araujo;65;R$ 26,60
+André Q X Brandão;21;R$ 16,40
+João H Y Badaró;22;R$ 22,30
+João H Y Saldanha;30;R$ 17,00
+Bruna R H Badaró;76;R$ 19,00
+André O K de Souza;21;R$ 24,80
+Lucas H R Silva;36;R$ 26,20
+Gabriel K E Vargas;27;R$ 25,70
+Willer E D da Rocha;20;R$ 25,30
+João M P Vieira;75;R$ 21,10
+Daniel G F Badaró;41;R$ 19,50
+Bruna S P Vieira;61;R$ 20,60
+Lucas M S Vargas;54;R$ 17,30
+Lucas G V Macedo;33;R$ 28,20
+Bruna U J da Rocha;79;R$ 28,30
+João H D Badaró;76;R$ 26,70
+Lucas T E França;64;R$ 27,50
+Gabriel V K de Souza;71;R$ 16,20
+Willer X I Badaró;27;R$ 22,30
+Rafael R Z de Araujo;22;R$ 24,90
+Rafael F B Brandão;28;R$ 17,90
+Davi O C de Souza;43;R$ 28,20
+Brian O I Vieira;48;R$ 18,90
+Gabriel Q O Macedo;23;R$ 28,60
+Lucas G N Saldanha;53;R$ 18,40
+Daniel U Q de Araujo;69;R$ 17,10
+Rafael T S de Souza;74;R$ 27,60
+Gabriel F K de Souza;55;R$ 22,00
+Daniel R T Brandão;21;R$ 21,00
+Rafael F A Vieira;71;R$ 25,90
+André Q N de Araujo;62;R$ 21,90
+Bruna X C Vieira;24;R$ 19,30
+Daniel B Y Vieira;76;R$ 26,10
+Brian L F de Araujo;27;R$ 16,00
+João B U Macedo;17;R$ 21,00
+Dalila C M França;39;R$ 21,50
+Fernando V Q Badaró;34;R$ 24,80
+João T E França;71;R$ 27,60
+Gabriel S X Vargas;39;R$ 25,00
+Willer Q B Macedo;33;R$ 23,30
+Fernando E O Macedo;47;R$ 20,70
+Bruna N W da Rocha;41;R$ 17,10
+Daniel H H Badaró;39;R$ 16,70
+Gabriel P S Vieira;60;R$ 20,40
+Davi R Z Silva;78;R$ 28,30
+Brian W F Saldanha;45;R$ 24,30
+Rafael X P Macedo;25;R$ 20,40
+Rafael I B da Rocha;20;R$ 25,70
+André K I de Souza;24;R$ 22,00
+Willer M O Badaró;63;R$ 25,50
+Daniel B D França;48;R$ 28,30
+Lucas B Y da Rocha;26;R$ 19,10
+Fernando T H França;37;R$ 27,30
+Rafael W B Macedo;35;R$ 27,10
+Lucas I F de Araujo;17;R$ 24,60
+Davi Q C de Araujo;60;R$ 25,80
+Gabriel V F de Souza;41;R$ 19,20
+João D A da Rocha;36;R$ 21,40
+Davi I M Vieira;42;R$ 17,90
+Davi O B Vieira;42;R$ 23,90
+Fernando E H Saldanha;32;R$ 21,10
+Willer L G Vargas;38;R$ 21,10
+Bruna F J Vieira;42;R$ 19,90
+Dalila J J de Araujo;21;R$ 22,40
+Bruna H X Saldanha;21;R$ 24,30
+Rafael N Q Macedo;20;R$ 28,60
+João F I Macedo;40;R$ 16,80
+Dalila J E Vargas;74;R$ 23,30
+Fernando E U da Rocha;68;R$ 26,70
+Lucas E K de Araujo;54;R$ 24,20
+Lucas P Q de Araujo;28;R$ 15,70
+Brian Z P Brandão;51;R$ 21,10
+Lucas U E Macedo;67;R$ 18,40
+Lucas S D França;35;R$ 15,70
+Gabriel J M Vargas;68;R$ 18,80
+André W A Saldanha;55;R$ 15,30
+André W P França;75;R$ 22,20
+Dalila C X Silva;67;R$ 18,10
+João E R Brandão;41;R$ 21,60
+Brian N H França;29;R$ 24,30
+Davi D P Silva;79;R$ 15,30
+Lucas C G Vargas;28;R$ 24,00
+Lucas W M Vargas;21;R$ 22,30
+Gabriel X B Macedo;72;R$ 16,30
+João T M de Araujo;63;R$ 28,10
+Gabriel U P Saldanha;34;R$ 28,00
+Daniel V V Vieira;19;R$ 15,30
+Rafael W O Saldanha;41;R$ 25,00
+Gabriel Z K Silva;78;R$ 27,20
+Willer G W Macedo;63;R$ 23,50
+João Y H Macedo;47;R$ 21,10
+Daniel F U Saldanha;70;R$ 27,50
+Rafael S D da Rocha;23;R$ 22,20
+Willer D F Vargas;54;R$ 19,60
+Dalila N X da Rocha;78;R$ 25,60
+Dalila J X Vargas;39;R$ 18,30
+André K G Vieira;45;R$ 18,30
+Daniel Q B Badaró;72;R$ 25,40
+João X U Brandão;42;R$ 27,50
+Willer H I Badaró;66;R$ 26,70
+Davi M I Silva;49;R$ 15,70
+Lucas X O Macedo;46;R$ 26,50
+Lucas W M Macedo;36;R$ 17,60
+Willer C U Saldanha;80;R$ 21,80
+Fernando Y J Saldanha;22;R$ 26,80
+Fernando E R Vargas;49;R$ 23,40
+Fernando V X França;24;R$ 17,80
+Rafael J W Vieira;69;R$ 26,20
+Willer E K Saldanha;18;R$ 21,60
+Rafael F U Badaró;47;R$ 22,80
+Rafael C Z de Souza;64;R$ 25,60
+Gabriel N R Badaró;25;R$ 21,10
+Fernando E K Vieira;78;R$ 18,70
+Rafael Y I Badaró;78;R$ 17,60
+Willer W D Macedo;54;R$ 20,70
+André E O Saldanha;20;R$ 26,80
+Rafael Z M Silva;75;R$ 21,90
+Daniel K U de Araujo;68;R$ 22,70
+André O B da Rocha;77;R$ 18,80
+Davi C E Brandão;78;R$ 25,20
+Lucas Y Y da Rocha;22;R$ 26,70
+Dalila C T Vieira;21;R$ 19,20
+Daniel A W Badaró;68;R$ 25,70
+Brian C A Saldanha;66;R$ 23,50
+Fernando G E Saldanha;75;R$ 16,70
+Bruna N T de Araujo;47;R$ 23,10
+Rafael E E Saldanha;49;R$ 17,90
+André G C Saldanha;40;R$ 27,90
+Fernando F W Macedo;29;R$ 15,10
+Davi R G de Souza;20;R$ 18,40
+Bruna D K Badaró;31;R$ 16,70
+Willer G Q de Araujo;68;R$ 24,80
+Dalila U H de Souza;60;R$ 27,80
+Rafael M W Vieira;17;R$ 22,20
+André T T de Araujo;60;R$ 19,00
+Davi R R Saldanha;39;R$ 21,40
+Lucas L H Saldanha;66;R$ 27,80
+Dalila K Y Macedo;45;R$ 19,80
+Bruna S B França;62;R$ 17,40
+Lucas L C Saldanha;72;R$ 16,50
+Brian B E Saldanha;39;R$ 24,00
+Davi N Q Saldanha;17;R$ 16,80
+João M Y da Rocha;71;R$ 24,50
+João C O de Araujo;30;R$ 21,20
+Dalila V D da Rocha;55;R$ 26,20
+Fernando I Z Vieira;69;R$ 16,80
+André K W Brandão;18;R$ 18,10
+Brian X V de Souza;18;R$ 26,60
+André H N Macedo;65;R$ 17,50
+Rafael E P Brandão;42;R$ 15,90
+Davi M U Brandão;24;R$ 17,80
+Daniel H U da Rocha;68;R$ 17,40
+André E M Vargas;78;R$ 25,70
+Dalila A C Badaró;67;R$ 24,00
+Gabriel I X Badaró;65;R$ 25,40
+Willer A V Macedo;18;R$ 28,60
+João H P Silva;20;R$ 28,90
+Fernando J T Macedo;75;R$ 22,30
+Rafael A D Brandão;72;R$ 24,70
+Willer U T Vieira;31;R$ 16,50
+Gabriel T K Badaró;66;R$ 27,80
+Brian H F da Rocha;20;R$ 22,80
+Brian Q H Macedo;29;R$ 19,90
+João S L França;53;R$ 16,60
+Rafael Q R de Souza;49;R$ 26,70
+João L T Vieira;29;R$ 21,30
+Davi U S Saldanha;38;R$ 17,20
+João N T Saldanha;77;R$ 20,00
+Dalila G G Vargas;29;R$ 23,00
+André Z X Vargas;24;R$ 20,90
+Lucas K N Vieira;25;R$ 27,80
+Lucas H Y de Araujo;53;R$ 24,00
+Dalila X L Badaró;17;R$ 23,10
+Dalila U T Brandão;42;R$ 24,60
+Brian C L Macedo;53;R$ 20,90
+Gabriel J L Saldanha;38;R$ 24,00
+Willer Q W Badaró;35;R$ 19,40
+Dalila M E de Souza;24;R$ 21,00
+Rafael W G Saldanha;72;R$ 18,70
+Lucas F M Vargas;57;R$ 25,80
+André F U Vargas;28;R$ 21,10
+Brian Z L Macedo;32;R$ 24,20
+Daniel L Y França;76;R$ 24,50
+João N S Vargas;42;R$ 16,10
+Davi V K Vieira;69;R$ 28,20
+Fernando V C de Araujo;33;R$ 15,60
+Bruna T Y Brandão;56;R$ 28,50
+Davi D N França;76;R$ 20,60
+Gabriel X N de Souza;50;R$ 19,60
+Gabriel S V Vieira;50;R$ 25,50
+Daniel U H Saldanha;20;R$ 28,00
+Gabriel K J Saldanha;75;R$ 19,70
+Davi O T Badaró;20;R$ 18,40
+Gabriel P A Macedo;44;R$ 23,30
+Bruna G L Saldanha;72;R$ 23,70
+André K Q Saldanha;26;R$ 15,60
+Gabriel W X da Rocha;80;R$ 25,10
+Fernando J Z Macedo;45;R$ 19,90
+Daniel I E de Araujo;42;R$ 24,20
+Willer P U Saldanha;80;R$ 17,60
